@@ -15,4 +15,4 @@ field.relax()
 
 # get the resulting point positions
 new_positions = field.get_points()
-
+print(new_positions)
